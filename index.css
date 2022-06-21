@@ -65,7 +65,7 @@ body {
 
 #background-video {
     width: 100vw;
-    height: 85vh;
+    height: 90vh;
     object-fit: cover;
     position: absolute;
     left: 0;
@@ -78,7 +78,7 @@ body {
 
 #menu-background-image {
     width: 100vw;
-    height: 490px;
+    height: 90vh;
     /* margin-bottom: 20px; */
     position: absolute;
     top: 85vh;
